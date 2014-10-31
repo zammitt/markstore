@@ -1,4 +1,7 @@
 /* CSS used here will be applied after bootstrap.css */
+#main {
+  margin-top:60px;
+}
 
 .productbox {
     position: relative;
